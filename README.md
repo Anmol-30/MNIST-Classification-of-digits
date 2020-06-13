@@ -12,7 +12,7 @@ Classify handwritten digits from 0 - 9.
 
 <img src="https://corochann.com/wp-content/uploads/2017/02/mnist_plot.png" title="" align="center"/>
 
-#Code requirements
+# Code requirements
 
 python 3.x with following modules installed
 
