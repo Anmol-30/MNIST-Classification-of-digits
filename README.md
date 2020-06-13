@@ -7,3 +7,9 @@ The MNIST dataset is an image dataset of handwritten digits. It has has 60,000 t
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" title="MNIST dataset" align="center"/>
 
+PROBLEM STATEMENT
+Classify handwritten digits from 0 - 9.
+
+<img src="https://corochann.com/wp-content/uploads/2017/02/mnist_plot.png" title="" align="center"/>
+
+
