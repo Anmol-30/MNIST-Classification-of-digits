@@ -1,3 +1,7 @@
+Keras is a very versatile, deep learning library that can run on-top-of several other deep learning frameworks — it supports Tensorflow, Theano and Microsoft CNTK, with Tensorflow being the default. Keras can be used both with a CPU as well as a GPU.
+
+For this example, I am using Keras configured with Tensorflow on a CPU machine — for a simple model like MNIST, a CPU configuration suffices. For any serious deep learning projects, a GPU is highly recommended otherwise complex ML models will take excruciatingly long to train.
+
 # MNIST-Classification-of-digits
 
 Developed a simple deep learning classifier using Keras library to achieve 98.76% accuracy on the MNIST digits database. Also, built a Convolutional Neural Network (CNN) for the classification.
